@@ -2,7 +2,8 @@
 # Hi 👋, I'm Nikita
 
 A passionate full stack developer from India 
-🚀Passionate Full Stack Developer | Java | C++ | Spring Boot | 
+<br>
+ 🚀Passionate Full Stack Developer | Java | C++ | Spring Boot | 
 
 ## 🔭 Currently Training At:
         CDAC Infoway
