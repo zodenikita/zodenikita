@@ -12,14 +12,14 @@ A passionate full stack developer from India
       PG-DAC | Full Stack Development
 
 ### ⚡ Fun Fact:
-🎮 I crafting and playing games!
+🎮 crafting and playing games!
 
 ## 📫 Connect With Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nzode12@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikitazode12@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-zode/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikita_zode)
+
 
 
 ## ⚒️ Skills & Technologies
